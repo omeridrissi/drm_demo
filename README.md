@@ -17,4 +17,4 @@ make clean
 ./main
 ```
 
-
+make sure no other window systems or desktop environments are running!
