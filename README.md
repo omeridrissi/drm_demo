@@ -1,4 +1,5 @@
-# libdrm dumb framebuffer demonstration
+# drm_demo
+libdrm dumb framebuffer demonstration
 
 ## Function
 - Program automatically selects an active drm_connector+CRTC+mode combination (highest res).
